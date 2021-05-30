@@ -1,0 +1,17 @@
+Since repl has some weird shit system
+
+
+1. You create a folder, name it what you want for the image eg. img.skids.host/gay
+
+2. So create a folder called gay, make a file called index.html in that folder and then you put in the meta *ONLY THE META*
+
+Note if you dont know how to do the meta a prebuilt one is called metacopy.html in root directory
+
+3. change the image link, restart the repl then boom!
+
+4. You can make a new folder and repeat or just change the image in the meta already.
+
+Developers:
+TTheHolyOne#1642
+amys#0001
+Storm.#9999
